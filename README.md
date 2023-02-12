@@ -1,0 +1,2 @@
+# test-gh-static
+testing
